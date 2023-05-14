@@ -12,7 +12,9 @@ Python command line application to transfer database contents from a Django REST
     * <https://pypi.org/project/pymongo/>
     * <https://pypi.org/project/python-dotenv/>
     * <https://pypi.org/project/docutils/>
-
+* Heroku:
+    * <https://django-to-atlas.herokuapp.com/>
+    * <https://git.heroku.com/django-to-atlas.git>
 
 ## Features
 
