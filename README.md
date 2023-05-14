@@ -1,6 +1,18 @@
-# Django Starter with CustomUser, Django Documentation Generator, DEV-PROD settings, pipenv, and Heroku Procfile
+# Transfer Django REST Models to Atlas
+Python command line application to transfer database contents from a Django REST endpoint to a MongoDB API.
 
-* NOTE: Author is using PowerShell for this guide.
+## Resources
+
+* GitHub Repository:
+    * <https://github.com/brucestull/transfer-django-rest-to-atlas>
+* PyPI:
+    * <https://pypi.org/project/Django/>
+    * <https://pypi.org/project/djangorestframework/>
+    * <https://pypi.org/project/requests/>
+    * <https://pypi.org/project/pymongo/>
+    * <https://pypi.org/project/python-dotenv/>
+    * <https://pypi.org/project/docutils/>
+
 
 ## Features
 
