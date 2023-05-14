@@ -13,6 +13,7 @@ tzdata = "==2022.7"
 requests = "==2.30.0"
 pymongo = "==4.3.3"
 python-dotenv = "==1.0.0"
+djangorestframework = "==3.14.0"
 
 [dev-packages]
 
